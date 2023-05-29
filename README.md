@@ -9,3 +9,8 @@ The project is significant as insurance fraud is a major issue for the industry,
 
 # Project objective: 
 To develop a Machine Learning classification model to detect fraud and non-fraud insurance claims
+
+# Data Loading and Gathering
+For this Project we have been given with Two folders for Train and test dataset.
+
+Each folder contains different data sets with respective informations about Insurance, Policy and history of the insurance policy. I have combined these data sets as per the problem requirement into single dataframe to perform all the data cleaning and processing steps.
