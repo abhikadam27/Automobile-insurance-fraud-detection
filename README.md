@@ -14,6 +14,5 @@ To develop a Machine Learning classification model to detect fraud and non-fraud
 For this Project we have been given with Two folders for Train and test dataset.
 
 Each folder contains different data sets with respective informations about Insurance, Policy and history of the insurance policy. I have combined these data sets as per the problem requirement into single dataframe to perform all the data cleaning and processing steps.
-
-          ![Capture3](https://github.com/abhikadam27/Automobile-insurance-fraud-detection/assets/78306477/02933c70-9a2c-4f1b-a7c2-243f042f702d)
+![Capture3](https://github.com/abhikadam27/Automobile-insurance-fraud-detection/assets/78306477/02933c70-9a2c-4f1b-a7c2-243f042f702d)
 
