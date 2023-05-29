@@ -1,5 +1,6 @@
 # Automobile-insurance-fraud-detection
-# Overview
+# Overview![Capture2](https://github.com/abhikadam27/Automobile-insurance-fraud-detection/assets/78306477/e1ec145b-e154-470c-80e3-699e4010b8fd)
+
 ([http://url/to/img.png](https://drive.google.com/file/d/1VLaROyH8U1SEUyVh3waN7g3PssXHR4YD/view?usp=share_link))
 The Insurance Claim Fraud Detection project is a data science project that aims to identify fraudulent claims in the insurance industry. The project involves the use of statistical and machine learning techniques to develop a model that can detect and prevent fraudulent claims, which can lead to significant financial losses for insurance companies.
 ![image](https://github.com/abhikadam27/Automobile-insurance-fraud-detection/assets/78306477/cd65302a-4925-48b3-ac2f-6f149e2fba5d)
