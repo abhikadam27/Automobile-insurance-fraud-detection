@@ -7,5 +7,6 @@ The project involves the analysis of large datasets containing information on in
 The project is significant as insurance fraud is a major issue for the industry, with billions of dollars lost each year due to fraudulent claims. By implementing a fraud detection model, insurance companies can save significant amounts of money and improve their overall profitability.
 ![image](https://github.com/abhikadam27/Automobile-insurance-fraud-detection/assets/78306477/e2c30c39-2740-42b8-a453-0b89b782cee8)
 
-(https://github.com/abhikadam27/Automobile-insurance-fraud-detection/assets/78306477/eaa0b41d-55a7-4896-8e18-bc95474e3940)
+Project objective: 
+To develop a Machine Learning classification model to detect fraud and non-fraud insurance claims![image](https://github.com/abhikadam27/Automobile-insurance-fraud-detection/assets/78306477/0b3db5cf-f408-4af1-8932-852be561f75d)
 
